@@ -139,7 +139,7 @@ class Api {
   }
   }
 
-  const api = new Api('https://nodejs-mesto-project.onrender.com');
+  const api = new Api('https://api.mesto.stackra.ru');
   
   export default api;
   
